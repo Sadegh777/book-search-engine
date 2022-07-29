@@ -1,4 +1,4 @@
-# MERN Google Books API Search Engine
+# MERN: Books_Search_Engine
 
 Usage of Google Books API to create an GraphQL API with Apollo Server. MERN stack is implemented to create the app. User can sign up and log in for an account, search for a book of their liking and added to a list of saved books, users can also remove the saved books.
 
