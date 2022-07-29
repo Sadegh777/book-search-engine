@@ -15,17 +15,19 @@ So that they can keep a list of books to purchase.
 1. [Deployed App](#Deployed-App)
 1. [Installation](#Installation)
 1. [Contribution Guidelines](#Contribution-Guidelines)
-1. [Project Team](#Project-Team)
 1. [Questions](#Questions)
-1. [License](#License)
 
-## Project Links
-[Repo Link](https://github.com/SepidehAyani/MERN_Google_Books_API_Search_Engine) <br>
+
+
 
 ## Screenshot
-![Book Search](images/BookSearchDemo.png)
+![Book Search](images/demo1.png)
 
-## Demo
+<br/>
+
+![Book Search](images/demo2.png)
+
+## Deployment
 [Deployed App](https://book-search-challenge-21-mern.herokuapp.com/)
 
 ## Instructions
@@ -48,17 +50,10 @@ So that they can keep a list of books to purchase.
 - <a href="https://www.heroku.com/">Heroku</a>
 
 ## Contribution Guidelines:
-```  
-Feel free to contribute to this repo by creating issues or sending an email to sepid.ayani@gmail.com
-```
-## Project Team
-[SepidehAyani](https://github.com/SepidehAyani) <br>
+
+[Sadegh.M](https://github.com/Sadegh777) <br>
 
 ## Questions
 <details>
     <summary>Contact</summary>
-    sepid.ayani@gmail.com
-</details>
-
-## License
-#### Distributed under the MIT License. See [Choose A License](https://choosealicense.com/) for more details.
+    msm.officially@gmail.com
