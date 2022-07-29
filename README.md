@@ -51,7 +51,7 @@ So that they can keep a list of books to purchase.
 
 ## Contribution Guidelines:
 
-[Sadegh.M](https://github.com/Sadegh777) <br>
+[Sadegh.M](https://github.com/Sadegh777/book-search-engine.git) <br>
 
 ## Questions
 <details>
