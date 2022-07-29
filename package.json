@@ -1,5 +1,5 @@
 {
-  "name": "mern_google_books_api_search_engine",
+  "name": "book-search-engine",
   "version": "1.0.0",
   "description": "",
   "main": "server/server.js",
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@work.github.com:SepidehAyani/MERN_Google_Books_API_Search_Engine"
+    "url": "git@github.com:Sadegh777/book-search-engine.git"
   },
   "keywords": [],
   "author": "",
