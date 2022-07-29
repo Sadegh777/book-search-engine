@@ -28,7 +28,7 @@ So that they can keep a list of books to purchase.
 ![Book Search](images/demo2.png)
 
 ## Deployment
-[Deployed App](https://book-search-challenge-21-mern.herokuapp.com/)
+[Deployed App](https://sadegh-book-search-engine-app.herokuapp.com/)
 
 ## Instructions
 * To use this app npm init has to be called to create your `package.json` file.
